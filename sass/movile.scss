@@ -55,11 +55,11 @@
             a{
                 font-size:  17px; 
                 padding: 0.4em;
-                border-radius: 5%;
+                border-radius: 7%;
                 width: 14em;
                 height: 1.9em;
                 background-color: rgb(83, 81, 81);
-                margin:1.5em auto;
+                margin:1em auto;
             }
 
             :hover{
@@ -71,14 +71,14 @@
         .attribution { 
             font-size: 11px; 
             text-align: center;
-            margin: 3.8em;
+            margin: 3.9em;
             a { color: hsl(228, 45%, 44%); }
         }   
         
         @include movil{
                 width: 20em;
                 height: 30em;
-                margin: 3em  0 3em 33.5em;
+                margin: 3em  0 3em 32.5em;
                 
         }
 

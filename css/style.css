@@ -113,17 +113,22 @@ body {
   }
 }
 .trasfondo #cuerpo .redes a {
-  font-size: 18px;
-  padding: 0.5em;
+  font-size: 17px;
+  padding: 0.4em;
   border-radius: 5%;
   width: 14em;
-  height: 2em;
+  height: 1.9em;
   background-color: rgb(83, 81, 81);
-  margin: 1em 0 1em 1.5em;
+  margin: 1em 0 1em 2em;
+}
+.trasfondo #cuerpo .redes :hover {
+  background-color: rgb(201, 255, 7);
+  color: black;
 }
 .trasfondo #cuerpo .attribution {
   font-size: 11px;
   text-align: center;
+  margin-top: 3.5em;
 }
 .trasfondo #cuerpo .attribution a {
   color: hsl(228, 45%, 44%);
@@ -132,7 +137,7 @@ body {
   .trasfondo #cuerpo {
     width: 20em;
     height: 30em;
-    margin: 3em 0 3em 32em;
+    margin: 3em 0 3em 33.5em;
   }
 }
 

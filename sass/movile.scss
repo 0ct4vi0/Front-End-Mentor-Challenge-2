@@ -13,14 +13,16 @@
         padding: 0.09em;
         border-radius: 4%;
         text-align: center;
+        
 
         .inicio{
            
             img{
-                margin:1.7em 0em 1em 6.5em ;
+                margin:1.5em auto ;
                 width: 6em;
                 height: 6em;
                 border-radius: 50%;
+                
             }
 
             h1{
@@ -57,7 +59,7 @@
                 width: 14em;
                 height: 1.9em;
                 background-color: rgb(83, 81, 81);
-                margin: 1em 0 1em 2em;
+                margin:1.5em auto;
             }
 
             :hover{
@@ -66,8 +68,10 @@
             }
         }
 
-        .attribution { font-size: 11px; text-align: center; margin-top: 3.5em;
-        
+        .attribution { 
+            font-size: 11px; 
+            text-align: center;
+            margin: 3.8em;
             a { color: hsl(228, 45%, 44%); }
         }   
         
